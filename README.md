@@ -1,3 +1,17 @@
+# Security Robot
+
+A mobile embedded security robot designed to monitor its surroundings using multiple sensors while supporting both autonomous and manual operation. The robot utilizes ultrasonic sensing for obstacle detection, a PIR sensor for motion detection, and an IR remote interface for user control.
+
+---
+
+## Overview
+
+This project was developed as the final integrated project for an Embedded Systems course. The system combines multiple sensors, motor control, and user interaction into a mobile robotic platform capable of environmental monitoring and navigation.
+
+The robot integrates motion sensing, obstacle detection, and remote-control functionality while demonstrating embedded programming, sensor integration, and hardware system design.
+
+---
+
 ## My Contributions
 
 I was responsible for the integration of the robot's hardware and software subsystems, including sensor implementation, motor control, wiring design, and system testing.
