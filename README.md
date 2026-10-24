@@ -86,6 +86,18 @@ Key contributions included:
 
 ---
 
+## Documentation
+
+Additional project documentation can be found in the `images/` directory.
+
+Included documentation contains:
+- Wiring diagrams
+- Pinout references
+- Hardware integration notes
+- Hand-drawn system planning sketches
+- Sensor connection mappings
+- Development notes and implementation references
+
 ## Source Code
 
 The project was developed incrementally throughout an Embedded Systems course. Source files retain their original project structure and naming conventions to preserve compatibility with the original development environment.
