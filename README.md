@@ -12,7 +12,7 @@ The robot integrates motion sensing, obstacle detection, and remote-control func
 
 ### Demo
 
-🎥 [Demo Video](https://youtube.com/shorts/vbmVGlrL-Wg?is=kajh2vK03fF_jFiv)
+- 🎥 [Demo Video](https://youtube.com/shorts/vbmVGlrL-Wg?is=kajh2vK03fF_jFiv)
    -***note*** In the video the robot is performing its searching algorithm by going in a circle and finding the farthest point. But once an obstacle comes close the ultrasonic sensor sends and interrupt to make it go a different way.
 ---
 
